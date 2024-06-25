@@ -1,0 +1,34 @@
+{
+    "name": "seen10hago",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-raycasting": "github:kiwiphoenix364/pxt-raycasting-mod-grayscale#5dfe75fc1eb9ee38afdb0356937c9a290109f4e1",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.24",
+        "tag": "v1.12.24",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/89b1551216675ebebbbe889528fa9279c1a7bef3",
+        "target": "1.12.53",
+        "pxt": "8.5.35",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
