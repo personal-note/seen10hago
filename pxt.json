@@ -6,7 +6,8 @@
         "pxt-raycasting": "github:kiwiphoenix364/pxt-raycasting-mod-grayscale#5dfe75fc1eb9ee38afdb0356937c9a290109f4e1",
         "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "pxt-lantern": "github:felixtsu/pxt-lantern#v0.2.1"
     },
     "files": [
         "main.blocks",
